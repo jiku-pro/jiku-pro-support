@@ -2,7 +2,8 @@
 
 Public support repository for Jiku Pro software
 
-
+<br>
+<br>
 
 Jiku Pro offers two support options:
 
@@ -18,7 +19,7 @@ Jiku Pro offers two support options:
 
 
 2. Consulting
-   - We offer paid consulting services pertaining to all aspects of Jiku Core and beyond.
+   - We offer paid consulting services pertaining to all aspects of Jiku Pro software
    - Cost: minimum charge of $500 USD
    - For a consulting quote please send a description of your problem to consulting@jiku.pro
 
