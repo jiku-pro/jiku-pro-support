@@ -1,6 +1,30 @@
 # jiku-pro-support
 
-Public support for jiku-pro software
+Public support repository for Jiku Pro software
+
+
+
+Jiku Pro offers two support options:
+
+
+
+1. Free support
+   - Free support is available here on GitHub
+   - First search the [Issues page](https://github.com/jiku-pro/jiku-pro-support/issues) for relevant issues
+   - If you are unable to find a solution to your problem, please create a new issue by selecting the green "New issue" button on the top-right of the [Issues page](https://github.com/jiku-pro/jiku-pro-support/issues) 
+   - Please create one issue for each problem;  please understant that the Jiku Pro Support Team may separate your post into separate issues to make each issue easier to find for other users
+   - Note that all issues are public;  do NOT post anything that you wish to keep private
+
+
+
+2. Consulting
+   - We offer paid consulting services pertaining to all aspects of Jiku Core and beyond.
+   - Cost: minimum charge of $500 USD
+   - For a consulting quote please send a description of your problem to consulting@jiku.pro
+
+
+
+
 
 <br>
 <br>
