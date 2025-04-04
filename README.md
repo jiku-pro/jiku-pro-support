@@ -2,6 +2,8 @@
 
 Public support repository for Jiku Pro software
 
+All content in this repository is provided under a Creative Commons Attribution-NonCommercial 3.0 Unported License. See license details below.
+
 <br>
 <br>
 
